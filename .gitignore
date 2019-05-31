@@ -1,0 +1,23 @@
+# Latex and Beamer intermediates
+*.toc
+*.bbl
+*.blg
+*.aux
+*.log
+*.nav
+*.snm
+*.out
+*.fls
+*.temp
+*.vrb
+*-blx.bib
+*.run.xml
+*.spl
+*.run.xml
+*.fdb_latexmk
+
+# OS X
+*.DS_Store
+
+# vim
+.*.sw[omp]
